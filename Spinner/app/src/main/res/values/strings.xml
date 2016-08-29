@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="country_prompt">Wybierz pojazd</string>
+    <string-array name="country_arrays">
+        <item>Samochód</item>
+        <item>Rower</item>
+        <item>Motocykl</item>
+        <item>Hulajnoga</item>
+        <item>Samolot</item>
+        <item>Helikopter</item>
+        <item>Statek</item>
+        <item>Okręt podwodny</item>
+    </string-array>
+</resources>
